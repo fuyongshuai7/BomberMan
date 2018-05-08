@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8799a6e9b0e1a491b81054a8f966b661
+timeCreated: 1516613041
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Buff_BomeAmount: {fileID: 1306034154131960, guid: cce7d3539511e4c6b80fecc1c93ba8cd,
+      type: 2}
+  - Buff_Speed: {fileID: 1960107842681048, guid: 0181e2bc64a2f43a2bf3a48fca2e85b0,
+      type: 2}
+  - Buff_FirePower: {fileID: 1676414654585230, guid: db853a913a8234802b8121f39cb88186,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
